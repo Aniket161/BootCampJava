@@ -17,7 +17,7 @@ short term
 monthly--
 tournaments
 single
-playeer id,name,gender,
+player id,name,gender,
 static
 playersname,dob,gender
 dynamic
