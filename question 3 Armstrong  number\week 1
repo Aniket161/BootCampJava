@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class armstrongMain {
+public class ArmstrongMain {
 	 public static boolean isArmstrong(int n) {
 	        int temp,last,sum=0;
 	        temp=n;
